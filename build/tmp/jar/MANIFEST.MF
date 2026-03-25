@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: hansolo
+Created-By: 26 (Azul Systems, Inc. 26+35)
+Build-Date: 2026-03-25
+Build-Time: 13:24:20.703+0100
+Build-Revision: 1f2667bef9c38ec400de24bf431f8cadc915854f
+Specification-Title: svgconverter
+Specification-Version: 26.0.0
+Implementation-Title: svgconverter
+Implementation-Version: 26.0.0
+Bundle-Name: svgconverter
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0;description=
+ Apache License Version 2.0;link=https://spdx.org/licenses/Apache-2.0.ht
+ ml
+Bundle-Description: Assembles a jar archive containing the classes of th
+ e 'main' feature.
+Bundle-Version: 26.0.0
+Bundle-SymbolicName: eu.hansolo.fx.svgconverter
+Class-Path: ${project.name}-${project.version}.jar
+Main-Class: eu.hansolo.fx.svgconverter.Launcher
+
